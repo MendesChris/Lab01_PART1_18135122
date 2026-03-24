@@ -1,0 +1,19 @@
+# Data folders
+Data/
+data/
+
+# Parquet files
+*.parquet
+
+# CSV files
+*.csv
+
+# Zip files
+*.zip
+
+# Spark temp
+spark-warehouse/
+
+# Python cache
+__pycache__/
+*.pyc
