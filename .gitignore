@@ -1,6 +1,3 @@
-# Data folders
-Data/
-data/
 
 # Parquet files
 *.parquet

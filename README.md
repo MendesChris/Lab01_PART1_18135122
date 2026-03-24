@@ -66,7 +66,8 @@ project/
 ├── requirements.txt
 └── README.md
 ```
-
+##### **Large files not included in the commit*
+![large_files](git_ignored_files.png)
 ---
 
 # 🥉 Bronze Layer
