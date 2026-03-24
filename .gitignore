@@ -3,7 +3,7 @@
 *.parquet
 
 # CSV files
-*.csv
+Data/raw/*.csv
 
 # Zip files
 *.zip
