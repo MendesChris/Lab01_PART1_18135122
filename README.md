@@ -298,14 +298,6 @@ python src/gold.py
 
 ---
 
-# 🚀 Future Improvements
-
-* Add location dimension (`dim_location`)
-* Build dashboards (Power BI / Streamlit)
-* Use Airflow for orchestration
-* Deploy pipeline in cloud environment
-
----
 
 # 👨‍💻 Author
 
